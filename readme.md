@@ -1,4 +1,4 @@
-## Introducción al proyecto
+## About the project
 
 In this project we want to address the prediction of matches of the Qatar 2022 World Cup. To do so, we will use different techniques that we have seen in class to perform this prediction.
 
