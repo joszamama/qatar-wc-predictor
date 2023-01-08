@@ -1,19 +1,20 @@
-Proyecto de la asignatura FID del máster MIS realizado por el equipo 8.
+# Proyecto de la asignatura FID del máster MIS realizado por el equipo 8.
 
-Tema:
+### Tema:
 Análisis y predicción de resultados del Mundial de Fútbol de Catar 2022
 
-Integrantes:
+### Integrantes:
 Carlos Núñez Arenas
 Mariano Manuel Torrado Sánchez
 Alejandro Santisteban Corchos
 José Antonio Zamudio Amaya
 
-Alcance:
+### Alcance:
 Nivel 9, hemos desarrollado dos algoritmos de aprendizaje. Uno supervisado
 para la predicción de los resultados del mundial, otro no supervisado
 para la agrupación en clústeres de los equipos participantes.
 
+### Contenido
 Toda la información y explicaciones se encuentran en la memoria 
 adjunta "FID - Proyecto.nb.html" y "FID - Proyecto.Rmd"
 
