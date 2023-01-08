@@ -4,10 +4,10 @@
 Análisis y predicción de resultados del Mundial de Fútbol de Catar 2022
 
 ### Integrantes:
-Carlos Núñez Arenas
-Mariano Manuel Torrado Sánchez
-Alejandro Santisteban Corchos
-José Antonio Zamudio Amaya
+1. Carlos Núñez Arenas
+2. Mariano Manuel Torrado Sánchez
+3. Alejandro Santisteban Corchos
+4. José Antonio Zamudio Amaya
 
 ### Alcance:
 Nivel 9, hemos desarrollado dos algoritmos de aprendizaje. Uno supervisado
